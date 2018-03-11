@@ -1,6 +1,6 @@
 /*Programmer : Fattaneh Ameri Mahabadian lab on Thursday 9:00 to 10:40 
- * CSC 1302 – Spring 2018 Homework #5
- * */
+ * CSC 1302 – Spring 2018 Homework #5 
+ good luck* */
 public class Recursive {
 
 	public static void main(String[] args) {
